@@ -10,7 +10,7 @@ using HTML, javascript , MYSQL, php.
 
 * NUMBER OF FORMS : 5
 * NUMBER OF TABLES : 4
-* 
+ 
 * Doctor login form
   * Name = Login-form-verification.html and
   * login verification.php
