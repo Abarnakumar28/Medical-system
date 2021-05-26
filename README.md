@@ -10,6 +10,7 @@ using HTML, javascript , MYSQL, php.
 
 * NUMBER OF FORMS : 5
 * NUMBER OF TABLES : 4
+* 
 * Doctor login form
   * Name = Login-form-verification.html and
   * login verification.php
@@ -17,25 +18,22 @@ using HTML, javascript , MYSQL, php.
   * Table=doc
  
 
-* 2. Patient login form
+* Patient login form
   * Name=index.php
   * Database=my_hospital
   * Table=users
-It checks from the table and allows registered user to
-login.
 
-* 3. Patient register form
+* Patient register form
   * Name=registration.php
   * Database=my_hospital
   * Table=users
-
-* 4.Patient input form
-
+  
+* Patient input form
   * Name=applicationform.html
   * Database=my_hospital
   * Table=input
-
-* 5.Admin login form
+  
+* Admin login form
   * Name=admin login.html and admin login.php
   * Database=my_hospital
   * Table=admin
